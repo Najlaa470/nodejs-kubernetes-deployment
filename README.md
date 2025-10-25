@@ -47,7 +47,7 @@ Création d'une application Node.js basique avec un serveur HTTP exposant un end
 
 - Authentification : `docker login`
 - Publication : `docker push driefmarwa/projet-nodejs:v2`
-- **Image disponible** : [driefmarwa/projet-nodejs:v2](https://hub.docker.com/)
+- **Image disponible** : [joulalinajlaa/projet-nodejs:v2](https://hub.docker.com/)
 
 ### **4. Configuration Kubernetes**
 
