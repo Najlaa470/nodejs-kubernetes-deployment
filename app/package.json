@@ -1,0 +1,14 @@
+{
+  "name": "projet-nodejs",
+  "version": "1.0.0",
+  "description": "Application Node.js pour déploiement Kubernetes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "JoulaliNajlaa",
+  "license": "MIT"
+}
