@@ -40,13 +40,13 @@ Création d'une application Node.js basique avec un serveur HTTP exposant un end
 ### **2. Conteneurisation avec Docker**
 
 - **Dockerfile** : Définition de l'environnement d'exécution
-- **Construction de l'image** : `docker build -t driefmarwa/projet-nodejs:v2 .`
+- **Construction de l'image** : `docker build -t joulalinajlaa/projet-nodejs:v2 .`
 - **Optimisation** : Utilisation d'images Alpine, gestion des permissions utilisateur
 
 ### **3. Publication sur Docker Hub**
 
 - Authentification : `docker login`
-- Publication : `docker push driefmarwa/projet-nodejs:v2`
+- Publication : `docker push joulalinajlaa/projet-nodejs:v2`
 - **Image disponible** : [joulalinajlaa/projet-nodejs:v2](https://hub.docker.com/)
 
 ### **4. Configuration Kubernetes**
